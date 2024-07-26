@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emiliyan.
-- 💼 I'm a Junior Front-end developer working in a collaborative team with front-end and back-end developers, as well as designers. My tech stack includes Angular, React, TypeScript, JavaScript, Bootstrap, and Sass.
+- 💼 I'm a Junior Front-end Developer working in a collaborative team with front-end and back-end developers, as well as designers. My tech stack includes Angular, React, TypeScript, JavaScript, Bootstrap, Sass and Jest for unit testing.
 - 👀 I’m interested in web development and front-end technologies.
 - 💞️ I’m looking to collaborate on open-source projects related to web development.
 - 📫 You can reach me via email - emiliaynweb@gmail.com
