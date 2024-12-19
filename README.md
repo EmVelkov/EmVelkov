@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emiliyan.
-- 💼 I'm a Full Stack Developer, Junior. My tech stack includes Angular, React, TypeScript, JavaScript, Bootstrap, Sass, Jest for unit testing and C#/.NET 
+- 💼 I'm a Full Stack Developer, Junior. My tech stack includes Angular, React, TypeScript, JavaScript, Bootstrap, Sass, Jest for unit testing, C#/.NET and ASP.NET Core.
 - 👀 I’m interested in web development.
 - 💞️ I’m looking to collaborate on open-source projects related to web development.
 - 📫 You can reach me via email - emiliaynweb@gmail.com
